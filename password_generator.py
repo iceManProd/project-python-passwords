@@ -1,5 +1,5 @@
 #this is my program, is a password generator
-#But i forgot the way how I was writed this programm
+#But i forgot the way how I written this programm
 import random
 
 def password_generator():
